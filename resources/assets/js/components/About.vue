@@ -3,7 +3,7 @@
       <div class="columns is-vcentered">
         <div class="column is-5">
                 <gmap-map
-                  :center="{lat:‎37.773972, lng:122.4194}"
+                  :center="{lat:‎37, lng:122}"
                   :zoom="7"
                   style="width: 100%; height: 300px"
                 ></gmap-map>
